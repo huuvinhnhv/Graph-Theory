@@ -1,0 +1,16 @@
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\bin\Debug\net5.0\Phan2.1.exe
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\bin\Debug\net5.0\Phan2.1.deps.json
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\bin\Debug\net5.0\Phan2.1.runtimeconfig.json
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\bin\Debug\net5.0\Phan2.1.runtimeconfig.dev.json
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\bin\Debug\net5.0\Phan2.1.dll
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\bin\Debug\net5.0\ref\Phan2.1.dll
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\bin\Debug\net5.0\Phan2.1.pdb
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.csproj.AssemblyReference.cache
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.AssemblyInfoInputs.cache
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.AssemblyInfo.cs
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.csproj.CoreCompileInputs.cache
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.dll
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\ref\Phan2.1.dll
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.pdb
+D:\HUS\LyThuyetDoThi\BT\4\21880159-21880002\SOURCE\Phan2.1\Phan2.1\obj\Debug\net5.0\Phan2.1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\bin\Debug\net5.0\Vidu.exe
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\bin\Debug\net5.0\Vidu.deps.json
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\bin\Debug\net5.0\Vidu.runtimeconfig.json
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\bin\Debug\net5.0\Vidu.runtimeconfig.dev.json
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\bin\Debug\net5.0\Vidu.dll
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\bin\Debug\net5.0\ref\Vidu.dll
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\bin\Debug\net5.0\Vidu.pdb
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.csproj.AssemblyReference.cache
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.AssemblyInfoInputs.cache
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.AssemblyInfo.cs
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.csproj.CoreCompileInputs.cache
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.dll
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\ref\Vidu.dll
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.pdb
+D:\HUS\LyThuyetDoThi\BT\0\Vidu\Vidu\obj\Debug\net5.0\Vidu.genruntimeconfig.cache

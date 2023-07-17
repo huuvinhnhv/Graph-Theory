@@ -1,0 +1,16 @@
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\bin\Debug\net5.0\BT2.c.exe
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\bin\Debug\net5.0\BT2.c.deps.json
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\bin\Debug\net5.0\BT2.c.runtimeconfig.json
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\bin\Debug\net5.0\BT2.c.runtimeconfig.dev.json
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\bin\Debug\net5.0\BT2.c.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\bin\Debug\net5.0\ref\BT2.c.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\bin\Debug\net5.0\BT2.c.pdb
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.csproj.AssemblyReference.cache
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.AssemblyInfoInputs.cache
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.AssemblyInfo.cs
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.csproj.CoreCompileInputs.cache
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\ref\BT2.c.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.pdb
+D:\HUS\LyThuyetDoThi\BT\2\BT2.c\BT2.c\obj\Debug\net5.0\BT2.c.genruntimeconfig.cache

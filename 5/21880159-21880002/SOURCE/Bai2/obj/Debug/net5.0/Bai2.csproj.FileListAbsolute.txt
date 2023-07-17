@@ -1,0 +1,16 @@
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\bin\Debug\net5.0\Bai2.exe
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\bin\Debug\net5.0\Bai2.deps.json
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\bin\Debug\net5.0\Bai2.runtimeconfig.json
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\bin\Debug\net5.0\Bai2.runtimeconfig.dev.json
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\bin\Debug\net5.0\Bai2.dll
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\bin\Debug\net5.0\ref\Bai2.dll
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\bin\Debug\net5.0\Bai2.pdb
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.csproj.AssemblyReference.cache
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.AssemblyInfoInputs.cache
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.AssemblyInfo.cs
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.csproj.CoreCompileInputs.cache
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.dll
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\ref\Bai2.dll
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.pdb
+D:\HUS\LyThuyetDoThi\BT\5\21880159-21880002\SOURCE\Bai2\obj\Debug\net5.0\Bai2.genruntimeconfig.cache

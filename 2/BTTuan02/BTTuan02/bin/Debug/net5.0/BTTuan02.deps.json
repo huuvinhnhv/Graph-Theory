@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BTTuan02/1.0.0": {
+        "runtime": {
+          "BTTuan02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTTuan02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

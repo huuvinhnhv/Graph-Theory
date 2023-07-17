@@ -1,0 +1,16 @@
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.AssemblyInfoInputs.cache
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.AssemblyInfo.cs
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.csproj.CoreCompileInputs.cache
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\bin\Debug\net5.0\BT2.b.exe
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\bin\Debug\net5.0\BT2.b.deps.json
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\bin\Debug\net5.0\BT2.b.runtimeconfig.json
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\bin\Debug\net5.0\BT2.b.runtimeconfig.dev.json
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\bin\Debug\net5.0\BT2.b.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\bin\Debug\net5.0\ref\BT2.b.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\bin\Debug\net5.0\BT2.b.pdb
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\ref\BT2.b.dll
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.pdb
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.genruntimeconfig.cache
+D:\HUS\LyThuyetDoThi\BT\2\BT2.b\BT2.b\obj\Debug\net5.0\BT2.b.csproj.AssemblyReference.cache

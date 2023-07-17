@@ -1,0 +1,16 @@
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\bin\Debug\net5.0\BTTuan02.exe
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\bin\Debug\net5.0\BTTuan02.deps.json
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\bin\Debug\net5.0\BTTuan02.runtimeconfig.json
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\bin\Debug\net5.0\BTTuan02.runtimeconfig.dev.json
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\bin\Debug\net5.0\BTTuan02.dll
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\bin\Debug\net5.0\ref\BTTuan02.dll
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\bin\Debug\net5.0\BTTuan02.pdb
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.csproj.AssemblyReference.cache
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.AssemblyInfoInputs.cache
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.AssemblyInfo.cs
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.csproj.CoreCompileInputs.cache
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.dll
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\ref\BTTuan02.dll
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.pdb
+D:\HUS\LyThuyetDoThi\BT\2\BTTuan02\BTTuan02\obj\Debug\net5.0\BTTuan02.genruntimeconfig.cache
